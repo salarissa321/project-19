@@ -1,0 +1,67 @@
+
+body{
+    font-family: 'Spartan', sans-serif;
+    
+}
+
+
+.mydiv{
+
+
+}
+
+.mycontainer{
+
+
+}
+
+.mynav{
+
+
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.mylink{
+   font-size: 20px;
+font-weight: 500;
+    color: gray;
+    margin: 10px;
+   margin-left: 20px;
+
+}
+
+.mybtn{
+    font-size: 15px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    text-decoration: none;
+position: relative;
+overflow: hidden;
+display: inline-block;
+border: none;
+background-color: red;
+text-align: center;
+padding: 13px 20px 13px 20px;
+margin-left: 40px;  
+}
+
+.myschrift{
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: -.3rem;
+}
+
+.mypara{
+    color: gray;
+    font-size: 25px;
+
+}
+
+.myimg{
+    margin-left: 390px;
+}
