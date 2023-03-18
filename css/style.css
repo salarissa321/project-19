@@ -65,3 +65,31 @@ margin-left: 40px;
 .myimg{
     margin-left: 390px;
 }
+
+.myicon1{
+    color: yellow;
+}
+
+.myschreiben{
+    font-size: 20px;
+    font-weight: 700;
+    
+    color: #2C2C4B;
+}
+
+.myparagraf{
+    font-size:18px ;
+font-weight: 500;
+
+color: #7C7C8E;
+margin-top: 0;
+margin-bottom: 1rem;
+}
+
+.myicon2{
+    color: red;
+}
+
+.myicon{
+    color: #21EB8A;
+}
