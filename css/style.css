@@ -90,6 +90,47 @@ margin-bottom: 1rem;
     color: red;
 }
 
-.myicon{
+.myicon3{
     color: #21EB8A;
+}
+
+.myicon4{
+    color: #ED50E8;
+}
+
+.myicon5{
+    color: #35CCFF;
+}
+
+.myicon6{
+    color: #7E57FF;
+}
+
+.mybutton1{
+margin-top: .7rem;
+margin-left: 500px;
+ color: white;
+ text-decoration: none;
+ position: relative;
+overflow: hidden;
+display: inline-block;
+
+
+text-align: center;
+padding: 15px 40px 15px 40px;
+}
+
+.mybutton2{
+text-decoration: none; 
+color: #5B5B71;
+margin-top: .7rem;
+margin-right: .7rem;
+position: relative;
+overflow: hidden;
+display: inline-block;
+border: none;
+background-color: transparent;
+text-align: center;
+padding: 15px 40px 15px 40px;
+margin-left: 20px;
 }
